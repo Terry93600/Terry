@@ -80,6 +80,10 @@ h3 {
   text-align: center;
 }
 
+h3 {
+  margin: 25px 0;
+}
+
 hgroup {
   margin-bottom: 8vh;
 }
