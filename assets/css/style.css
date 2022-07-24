@@ -1,0 +1,85 @@
+:root {
+  --b: #343f50;
+  --w: white;
+  --h: "Roboto", sans-serif;
+  --gras: 900;
+  --regular: 400;
+  --light: 100;
+  --value: 10px;
+}
+
+.bleu {
+  background: var(--b);
+}
+
+.blanc {
+  background: var(--w);
+  padding-top: 18vh;
+}
+
+section {
+  min-height: 100vh;
+}
+
+.bas {
+  min-height: 30vh;
+}
+
+h1 {
+  font-family: var(--h);
+  font-weight: var(--b);
+}
+
+p {
+  font-family: var(--b);
+  font-weight: var(--regular);
+}
+
+figure {
+  width: 280px;
+  height: 280px;
+  margin: 5% auto;
+  border-radius: 50%;
+  overflow: hidden;
+}
+
+h2 {
+  color: snow;
+  font-weight: var(--light);
+  font-size: 20px;
+  text-align: center;
+  font-family: var(--h);
+}
+
+ul {
+  list-style: none;
+  padding-left: 0;
+}
+
+li {
+  text-align: center;
+  display: block;
+  height: 10vh;
+  width: 100%;
+}
+
+a,
+li {
+  text-decoration: none;
+  color: white;
+}
+
+#metier,
+h1,
+h3 {
+  color: gray;
+  text-align: center;
+}
+
+hgroup {
+  margin-bottom: 8vh;
+}
+
+.moi {
+  color: black;
+}
