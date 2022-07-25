@@ -46,9 +46,10 @@ figure {
 h2 {
   color: snow;
   font-weight: var(--light);
-  font-size: 20px;
+  font-size: 30px;
   text-align: center;
   font-family: var(--h);
+  text-decoration: underline;
 }
 
 ul {
