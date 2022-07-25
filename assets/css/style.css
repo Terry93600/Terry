@@ -78,6 +78,10 @@ h3 > a {
   font-size: 30px;
 }
 
+#exp {
+  color: gray;
+}
+
 #metier,
 h1,
 h3 {
