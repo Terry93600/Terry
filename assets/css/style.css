@@ -69,6 +69,10 @@ li {
   color: white;
 }
 
+h3 > a {
+  color: gray;
+}
+
 #metier {
   font-size: 30px;
 }
